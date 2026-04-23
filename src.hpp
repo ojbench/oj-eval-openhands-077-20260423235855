@@ -1,6 +1,8 @@
 #ifndef CROSSARRAY_HPP
 #define CROSSARRAY_HPP
 
+// CrossArray implementation for OJ Problem 1410
+
 namespace sjtu {
     class CrossArray {
     private:
